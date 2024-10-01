@@ -1,11 +1,13 @@
 import { createTheme } from "@mui/material/styles";
-// import "../assets/fonts/TuskerGrotesk3800Super.DODskLYx.woff2";
-// import "../assets/fonts/TuskerGrotesk4700Bold.vTnXbop9.woff2";
-
 const theme = createTheme({
   palette: {
-    primary: {},
-    secondary: {},
+    primary: {
+      main: "#3f51b5",
+
+    },
+    secondary: {
+      main: "#f50057",
+    },
   },
 
   components: {
