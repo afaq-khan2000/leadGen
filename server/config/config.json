@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "abarkdb",
+    "password": "password@ABARK",
+    "database": "abark_pmis",
+    "host": "13.48.227.49",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "abarkdb",
+    "password": "password@ABARK",
+    "database": "abark_pmis_staging",
+    "host": "72.255.38.176",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Je<7tB0{*26~",
+    "database": "abark_pmis",
+    "host": "13.53.219.138",
+    "dialect": "mysql"
+  }
+}
